@@ -29,4 +29,6 @@ simple-calculator/
 │   │   └── style.css   # Custom styles & layout
 │   └── js/
 │       └── script.js   # Calculation logic & event listeners
+|   └── images/
+|       └── logo.png    # Favicon
 └── README.md           # Documentation
